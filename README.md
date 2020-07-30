@@ -4,4 +4,4 @@ My first Github Page, for my portfolio
 
 
 # Credits
-[Rounak Vyas] (https://github.com/itsron717)
+Big Thanks To [Rounak Vyas](https://github.com/itsron717)
