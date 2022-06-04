@@ -7,6 +7,6 @@ _Hosted site_: [Prashanjeet.com](https://prashanjeet.com)
 
 
 ## Credits
-Big Thanks To [Rounak Vyas](https://github.com/itsron717)
+Big Thanks To [Giotsere](https://github.com/giotsere)
 
 # _Happy Coding :)_ :heart:
